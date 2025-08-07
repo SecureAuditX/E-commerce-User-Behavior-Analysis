@@ -1,7 +1,9 @@
 # 🛍️ E-commerce User Behavior Analysis Dashboard
-
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 Welcome to the **E-commerce User Behavior Analysis Dashboard**, a powerful data analytics and customer segmentation tool built using **Python**, **Pandas**, **Scikit-learn**, and **Streamlit**. It transforms raw user behavior data into actionable insights for marketing strategy, business growth, and retention.
 
+![Ecommerce](https://github.com/SecureAuditX/E-commerce-User-Behavior-Analysis/blob/c2730bada7cb68f537d9b1c48e6bca5ade950cb7/Ecommerce.png)
 ---
 
 ## 🎯 Project Objectives
